@@ -34,7 +34,7 @@ public class Women {
 		PageFactory.initElements(driver,this);	
 	}
 	public List<WebElement> getIndianAndFusionWear() {
-		return indianAndFusionWeared;
+		return indianAndFusionWeared1;
 	}
 	
 }
