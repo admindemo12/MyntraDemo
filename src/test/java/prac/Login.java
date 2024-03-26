@@ -10,12 +10,12 @@ import pom.HomePage;
 import pom.ProfilePage;
 import utility.UtilityMethods;
 
-public class Login extends BaseClass{
+public class Login extends BaseClass2{
 @Test
 public void t1() {
 	HomePage hp=new HomePage(driver);
 	WebElement ele=hp.getSearchBar();
 	ele.sendKeys("kurthi");
-	ele.submit();
+	ele.submit();hai
 }
 }
