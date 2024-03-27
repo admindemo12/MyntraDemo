@@ -2,7 +2,6 @@ package prac;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-import pom.BaseClass;
 import pom.BaseClass2;
 import pom.HomePage;
 import utility.UtilityMethods;
