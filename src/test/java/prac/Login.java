@@ -16,6 +16,6 @@ public void t1() {
 	HomePage hp=new HomePage(driver);
 	WebElement ele=hp.getSearchBar();
 	ele.sendKeys("kurthi");
-	ele.submit();hai1
+	ele.submit();hai2
 }
 }
