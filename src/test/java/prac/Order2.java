@@ -3,10 +3,11 @@ import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 import pom.BaseClass;
+import pom.BaseClass2;
 import pom.HomePage;
 import utility.UtilityMethods;
 
-public class Order2 extends BaseClass{
+public class Order2 extends BaseClass2{
 @Test
 public void t2() {
 	HomePage hp=new HomePage(driver);
