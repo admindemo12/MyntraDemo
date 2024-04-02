@@ -1,5 +1,5 @@
 package pom;
 
 public class Demo {
-hai demo1
+hai demo1mj
 }
