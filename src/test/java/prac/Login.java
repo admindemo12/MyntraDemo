@@ -15,7 +15,6 @@ public class Login extends BaseClass{
 public void t1() {
 	HomePage hp=new HomePag(driver);
 	WebElement ele=hp.getSearchBar();
-	ele.sendKeys("kurthi");
 	ele.submit();
 
 }
